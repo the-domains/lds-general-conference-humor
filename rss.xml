@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LDS General Conference Humor]]></title>
         <description><![CDATA[LDS General Conference Humor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lds-general-conference-humor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 01:41:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 02:02:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lds-general-conference-humor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So Many Names, So Little Time]]></title>
+            <description><![CDATA[<article><h1>So Many Names, So Little Time</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68013d51-642f-4ea7-bd92-d54beb4f2623.png"></article>]]></description>
+            <link>https://thegrid.ai/lds-general-conference-humor/3f405013-3ebf-477d-a0b4-7e86ea58379d/index.html</link>
+            <guid isPermaLink="false">3f405013-3ebf-477d-a0b4-7e86ea58379d</guid>
+            <pubDate>Wed, 13 Apr 2016 02:01:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47861294-cd77-41a4-a9dd-b0bbd483f474.png">]]></description>
-            <link>undefinedduring-one-especially-rough-class-after-a-number-of-warning/index.html</link>
+            <link>https://thegrid.ai/lds-general-conference-humor/during-one-especially-rough-class-after-a-number-of-warning/index.html</link>
             <guid isPermaLink="false">02577430-fa85-4754-af03-dffad0619aa6</guid>
             <pubDate>Wed, 13 Apr 2016 01:40:49 GMT</pubDate>
         </item>
